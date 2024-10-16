@@ -1,26 +1,26 @@
-#Spendle
+**Spendle**
 
-**Spendle** is a web-based personal finance tracking application that empowers users to manage their financial health by tracking income and expenses in a user-friendly interface. The application categorizes transactions, providing insights into spending habits and aiding users in budgeting effectively.
+Spendle is a web-based personal finance tracking application that empowers users to manage their financial health by tracking income and expenses in a user-friendly interface. The application categorizes transactions, providing insights into spending habits and aiding users in budgeting effectively.
 
-##Features
+**Features**
 User Authentication: Secure login and registration system for personalized user experiences.
 Transaction Management: Add, edit, and delete income and expense transactions.
 Category Management: Create and manage categories for better organization of finances.
 Financial Summaries: View graphical representations of income and expenses for quick insights.
 Responsive Design: Optimized for both desktop and mobile devices.
 
-##Technologies Used
-**Backend:** PHP
-**Frontend:** HTML, CSS, JavaScript
-**Database:** MySQL
-**Development Tools:** Visual Studio Code, Git
+**Technologies Used**
+Backend: PHP
+Frontend: HTML, CSS, JavaScript
+Database: MySQL
+Development Tools: Visual Studio Code, Git
 
 
-##Getting Started
+**Getting Started**
 To run the Spendle application locally, follow these steps:
 
-###Clone the Repository
-**Copy code**
+Clone the Repository
+Copy code
 git clone https://github.com/Abhimanyu-Kurup/Spendle.git
 Set Up Your Local Environment
 
