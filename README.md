@@ -9,7 +9,7 @@ Category Management: Create and manage categories for better organization of fin
 Financial Summaries: View graphical representations of income and expenses for quick insights.
 Responsive Design: Optimized for both desktop and mobile devices.
 
-**Technologies Used** \n
+**Technologies Used**
 Backend: PHP
 Frontend: HTML, CSS, JavaScript
 Database: MySQL
