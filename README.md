@@ -4,11 +4,11 @@ Spendle is a web-based personal finance tracking application that empowers users
 
 **Features**
 
-User Authentication: Secure login and registration system for personalized user experiences.
-Transaction Management: Add, edit, and delete income and expense transactions.
-Category Management: Create and manage categories for better organization of finances.
-Financial Summaries: View graphical representations of income and expenses for quick insights.
-Responsive Design: Optimized for both desktop and mobile devices.
+  User Authentication: Secure login and registration system for personalized user experiences.
+  Transaction Management: Add, edit, and delete income and expense transactions.
+  Category Management: Create and manage categories for better organization of finances.
+  Financial Summaries: View graphical representations of income and expenses for quick insights.
+  Responsive Design: Optimized for both desktop and mobile devices.
 
 **Technologies Used**
 
